@@ -1,2 +1,3 @@
-/*comments*/
-cout<< "hello"
+/*comments
+ "hello"*/
+
